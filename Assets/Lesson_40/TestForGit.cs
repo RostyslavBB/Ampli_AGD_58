@@ -7,6 +7,8 @@ namespace Lesson_40
         private void Start()
         {
             Debug.LogWarning("Hello Git");
+            Debug.LogWarning("Hello Gordiy");
+            Debug.LogWarning("Hello David");
         }
     }
 }
