@@ -40,7 +40,7 @@ namespace Lesson37.Player
                 _playerPresenter.BeginRun();
             }
             if (Input.GetKeyUp(KeyCode.LeftShift))
-            {
+            { 
                 _playerPresenter.EndRun();
             }
         }

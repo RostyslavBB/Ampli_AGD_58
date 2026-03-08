@@ -15,5 +15,5 @@ MonoBehaviour:
   <MaxHealth>k__BackingField: 100
   <HealAmount>k__BackingField: 5
   <TeleportLenght>k__BackingField: 10
-  <WalkSpeed>k__BackingField: 5
-  <RunSpeed>k__BackingField: 10
+  <WalkSpeed>k__BackingField: 10
+  <RunSpeed>k__BackingField: 20
