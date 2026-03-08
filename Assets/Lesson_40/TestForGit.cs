@@ -9,6 +9,13 @@ namespace Lesson_40
             Debug.LogWarning("Hello Git");
             Debug.LogWarning("Hello Gordiy");
             Debug.LogWarning("Hello David");
+
+            SayHello();
+        }
+
+        private void SayHello()
+        {
+            Debug.LogWarning("Hello World");
         }
     }
 }
