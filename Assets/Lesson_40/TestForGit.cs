@@ -7,6 +7,13 @@ namespace Lesson_40
         private void Start()
         {
             Debug.LogWarning("Hello Git");
+
+            SayHello();
+        }
+
+        private void SayHello()
+        {
+            Debug.LogWarning("Hello World");
         }
     }
 }
